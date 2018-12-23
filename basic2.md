@@ -123,7 +123,7 @@ my_car.update_odometer(50)
 my_car.read_odometer()
 elc_car.battery.describe_battery()  # 调用3中的battery类
 ```
-- [github地址:](https://github.com/watson2017/usage-class.git)
+- [地址:https://github.com/watson2017/usage-class.git](https://github.com/watson2017/usage-class.git)
 
 ### 三、JSON 对象
 >JSON(JavaScript Object Notation) 是一种轻量级的数据交换格式，易于人阅读和编写。
